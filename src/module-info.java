@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author smilingCat
+ *
+ */
+module testGi{
+		
+}
